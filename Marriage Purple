@@ -1,0 +1,33 @@
+{
+  "title": "Marriage Purple",
+  "description": "Rin Suzumiya gets into the high school of her dreams, but she ends up in the same class as Yukichi Sakamoto, a total jerk who always picked on her when they were in elementary school. It seems like nothing's changed about Yukichi in the three years that they hadn't seen each other, so when he tells her to write her name on a piece of paper, she does it just to make him go away. However, Rin completely misses that it was a marriage registration form! And to make matters worse, Yukichi refuses to give it back unless she stops avoiding him for 3 years! How is Rin going to survive high school now that she's stuck with such a tyrant?",
+  "artist": "Hayashi Mikase",
+  "author": "Hayashi Mikase",
+  "cover": "https://cdn.discordapp.com/attachments/811344499522404392/811439319297687602/3-2fc9476b023591cc80fd3d03e2f4f615fa9f92fb35ae4459f69df809b8a3ad08.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Shinrinyoku Scans": "/proxy/api/imgur/chapter/yrvCd0v/"
+      },
+      "last_updated": "1617864110"
+    },
+   "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Shinrinyoku Scans": "/proxy/api/imgur/chapter/aZ9hIuC/"
+      },
+      "last_updated": "1617864110"
+    },
+   "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Shinrinyoku Scans": "/proxy/api/imgur/chapter/QeeF8Ue/"
+      },
+      "last_updated": "1617864110"
+    },
+  }
+}
